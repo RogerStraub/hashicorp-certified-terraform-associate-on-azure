@@ -15,7 +15,7 @@ provider "azurerm" {
 }
 
 # Create Resource Group 
-resource "azurerm_resource_group" "my_demo_rg1" {
+resource "azurerm_resource_group" "Roger-1" {
   location = "eastus"
   name = "my-demo-rg1"  
 }
